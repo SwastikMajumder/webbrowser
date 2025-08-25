@@ -1,4 +1,5 @@
-<html>
+this vibe coded browser parses and render this html file
+```<html>
   <body>
     <h1>HTML Render Test</h1>
     <h2>Subheading</h2>
@@ -42,3 +43,4 @@
     <p>End of <b>test</b>.</p>
   </body>
 </html>
+```
